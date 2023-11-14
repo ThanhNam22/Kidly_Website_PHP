@@ -1,0 +1,3 @@
+User: namgmail.com  pass:1
+
+admin: thanhnamd67@gmail.com  passs: 123456
